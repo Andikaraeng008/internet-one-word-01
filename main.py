@@ -7,10 +7,10 @@ The word is written exactly as-is: no newline, no extra text.
 
 import os
 
-# The entry: one word for the whole internet (7 chars, gate allows 1-30).
+# The entry: one word for the whole internet (10 chars, gate allows 1-30).
 # "cookies": every site begs you to accept them, and the whole internet
 # runs on them — a snack and a tracker in one word.
-WORD = "cookies"
+WORD = "touchgrass"
 
 
 def main() -> None:
